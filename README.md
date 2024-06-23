@@ -1,1 +1,1 @@
-# Amazon-clone-Front-end-
+# Amazon(clone)Front-end
